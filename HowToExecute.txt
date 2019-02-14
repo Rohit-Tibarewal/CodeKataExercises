@@ -5,6 +5,7 @@ Exercise-1: HCF
   Input: Length of Array and also the Array elements(integers)
   Expected Output: HCF of given array
   Command to execute:
+  Download and save the "CodeKatasExercises.jar" file and then run below java command
   java -cp CodeKatasExercises.jar com.test.hcf.HCF
   
   
@@ -13,6 +14,7 @@ Exercise-1: HCF
   Inputs: Path to "addresses.json" JSON file and during program execution the "type" of address
   Expected Output: Pretty print Addresses
   Command to execute:
+  Download and save the "CodeKatasExercises.jar" file and then run below java command
   java -jar CodeKatasExercises.jar "<PATH_TO> addresses.json"
 
 
