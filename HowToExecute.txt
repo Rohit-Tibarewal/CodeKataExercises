@@ -1,0 +1,25 @@
+Please follow below steps to execute the coda kata exercises:
+
+Exercise-1: HCF
+  Objective: The program prints the Highest Common Factor for a given array of integers
+  Input: Length of Array and also the Array elements(integers)
+  Expected Output: HCF of given array
+  Command to execute:
+  java -cp CodeKatasExercises.jar com.test.hcf.HCF
+  
+  
+  Exercise-2: JSON manipulations
+  Objective: The program performs various operations on given array of Addresses, in JSON format
+  Inputs: Path to "addresses.json" JSON file and during program execution the "type" of address
+  Expected Output: Pretty print Addresses
+  Command to execute:
+  java -jar CodeKatasExercises.jar "<PATH_TO> addresses.json"
+
+
+Exercise-3: String Calculations Kata 
+  Objective: The program performs add operation on given string of integers, written as JUNIT tests 
+  Inputs: N/A
+  Expected Output: String calculator output of different test cases 
+  Command to execute:
+  Download and Import the JAVA project "CodeKata.zip" and Run As-> "JUNit Test" for class "com.test.stringops.StringCalculator"
+  
