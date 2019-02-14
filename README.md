@@ -1,0 +1,2 @@
+# CodeKataExercises
+Code Kata Eercises
